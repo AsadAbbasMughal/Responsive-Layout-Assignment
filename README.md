@@ -1,0 +1,2 @@
+# Responsive Layout Assignment
+ This repository contains my assignment for SMIT, focused on creating a responsive layout using HTML and CSS. The project aims to demonstrate my ability to design and develop a web page that adjusts seamlessly across various screen sizes and devices. Key features include a flexible grid system and media queries to ensure optimal user experience on both desktop and mobile platforms.
